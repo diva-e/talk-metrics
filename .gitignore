@@ -1,0 +1,34 @@
+
+# /
+/.idea
+/zoe_core.iml
+/zoe-core.iml
+/activemq-data
+/zoe_core-grailsPlugins.iml
+/zoe-core-grailsPlugins.iml
+
+# /src/resources/
+/src/resources/build-details.properties
+
+# /target/
+/target/*
+
+# /target-eclipse/
+/target-eclipse/*
+
+# dat-files
+**/*.dat
+
+# iml-files
+**/*.iml
+
+.DS_Store
+
+node_modules/
+.nyc_output
+phantomjsdriver.log
+
+s101plugin.properties
+s101plugin.state
+structure101-settings.java.hsw
+
